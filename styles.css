@@ -1,0 +1,40 @@
+body{
+  background-color: bisque ;
+  font-family: 'Sono', sans-serif;
+  font-weight: bold;
+}
+
+.container{
+  background-color:#C4DFFF ;
+  padding: 60px;
+  margin: auto;
+  margin: 40px;
+  text-align: center;
+}
+
+#task-form{
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#task-form label{
+  text-align: left;
+  margin-bottom: 5px;
+}
+
+#task-form input{
+  padding: 10px;
+  width: 50%;
+  text-align: center;
+}
+
+.btn{
+  padding: 5px 8px;
+  width: 15%;
+  margin-top: 5px;
+  border-radius: 8px;
+  
+
+}
