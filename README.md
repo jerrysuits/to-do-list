@@ -1,3 +1,5 @@
 # t0-do-list
-# to-do-list
-# to-do-list
+AUTHOR-gerald obede
+
+created a to-do-list using css javascript and hntml
+
